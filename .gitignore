@@ -1,0 +1,8 @@
+**/mlruns/**
+**/artifacts/**
+data/**
+
+*.pkl
+*.db
+
+*-checkpoint.ipynb
