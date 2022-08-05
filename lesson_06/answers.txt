@@ -1,0 +1,8 @@
+Q1
+if __name__ == '__main__':
+
+Q2
+__init__.py
+
+Q3
+2
